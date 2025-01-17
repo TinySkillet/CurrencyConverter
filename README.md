@@ -2,7 +2,7 @@
 
 A TUI based conversion tool built with the [huh?](https://github.com/charmbracelet/huh) framework that uses the [FreeCurrencyAPI](https://freecurrencyapi.com/) to provide real-time currency conversion rates.
 
-![Demo](./demoGif.gif)
+<img src="./demoGif.gif" width="200" height="400" alt="Alt Text">
 
 ## Features
 
