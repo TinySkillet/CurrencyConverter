@@ -19,6 +19,8 @@ Before using the Currency Converter, ensure you have:
 
 ## Installation
 
+https://user-images.githubusercontent.com/your-user-id/your-repo/assets/video-asset-id/your-video.mp4
+
 ### 1. API Key Setup
 
 1. Sign up for a free account at [FreeCurrencyAPI](https://freecurrencyapi.com/)
